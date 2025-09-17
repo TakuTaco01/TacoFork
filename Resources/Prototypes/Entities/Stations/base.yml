@@ -88,8 +88,8 @@
           paths:
           - /Maps/_Funkystation/Shuttles/mining.yml #funky
         oldstation: !type:GridSpawnGroup #force this to always spawn so ghost roles are always accessible
-          minimumDistance: 1200 
-          maximumDistance: 2500
+          minimumDistance: 2500
+          maximumDistance: 3500
           stationGrid: false
           paths:
           - /Maps/_Funkystation/Ruins/oldstation.yml
